@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf(" A New Beginning")；
+    printf("This message comes from the feature branch.\n");
     return 0;
 }
